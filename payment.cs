@@ -1,0 +1,3 @@
+müþteri no:
+
+Müþteri ad: 
