@@ -1,4 +1,6 @@
 int main()
 {
-    void button(int x, int z);
+    void button(int x, int y, int z);
+
+   
 }
